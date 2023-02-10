@@ -5,13 +5,6 @@
   font-style: normal;
 }
 
-@font-face {
-  font-family: 'Signika';
-  src: url('../src/font/signika-bold_[allfont.net].ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
 /* .App {
   text-align: center;
 }
