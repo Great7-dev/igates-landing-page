@@ -12,7 +12,7 @@ const Card4 = () => {
            <p className="text5">Designing/engineering and management cloud<br/>
             computing and services</p>
            </div>
-           <a className="more" href="#">Learn More</a>
+           <a className="more" href="/">Learn More</a>
           
         </CardStyle>
     );

@@ -12,7 +12,7 @@ const Card3 = () => {
            <p className="text4">Articulating friendly user experience and intuitive<br/>
             product features into product delivery </p>
            </div>
-           <a className="more" href="#">Learn More</a>
+           <a className="more" href="/">Learn More</a>
           
         </CardStyle>
     );

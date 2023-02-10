@@ -13,7 +13,7 @@ const Card2 = () => {
             electronic systems, networks, and data from <br/>
             malicious cyber attacks</p>
            </div>
-           <a className="more" href="#">Learn More</a>
+           <a className="more" href="/">Learn More</a>
           
         </CardStyle>
     );

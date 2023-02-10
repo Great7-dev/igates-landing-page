@@ -12,7 +12,7 @@ const Card = () => {
            <p className="text2">Analyzing user requirement, designing,<br/>
             building and testing software applications</p>
            </div>
-           <a className="more" href="#">Learn More</a>
+           <a className="more" href="/">Learn More</a>
           
         </CardStyle>
     );
