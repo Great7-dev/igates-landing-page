@@ -1,13 +1,13 @@
 import styled from "styled-components";
 
 export const Partnerstyle = styled.div`
-    width: 100%;
+    width: fit-content;
     
 .patne{
     display: flex;
-   align-content: center;
+    align-content: center;
     justify-content: center;
-    margin-top: 147px;
+    margin-top: 45px;
     font-family: 'Yellix';
     font-style: normal;
     font-weight: 700;
@@ -20,7 +20,7 @@ export const Partnerstyle = styled.div`
 .logo-container{
     display: flex;
     flex-direction: row;
-    margin-top: 61px;
+    margin-top: 50px;
     gap:70px;
     margin-left: 102px;
 }

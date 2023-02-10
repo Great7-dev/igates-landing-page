@@ -4,7 +4,7 @@ export const Contactstyle = styled.div`
    width:100%;
    .contact{
     background-color: #FFEFEF;
-    margin-top: 100px;
+    margin-top: 250px;
     position: relative;
    }
    .head{
@@ -75,7 +75,7 @@ export const Contactstyle = styled.div`
     padding: 20px 0px 0 30px;
     width: 183px;
     height: 64px;  
-    margin: 25px 0 0 750px;
+    margin: 25px 0 0 780px;
     border-radius: 8px;
     font-family: 'Yellix';
     font-style: normal;

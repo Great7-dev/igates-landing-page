@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Introstyle = styled.div`
-    width: 100%;
+    width: fit-content;
     /* margin-left: 102px; */
     /* height: fit-content; */
     

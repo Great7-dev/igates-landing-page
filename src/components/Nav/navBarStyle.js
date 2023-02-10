@@ -5,7 +5,7 @@ export const Navstyle = styled.div`
     height: fit-content;
     display: flex;
     position: fixed;
-     background-color: #ffffff;
+    background-color: #ffffff;
     z-index: 50;
     top: 0;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.06);
@@ -22,13 +22,17 @@ margin-left: 102px;
 }
 .gates{
     color: #000000;
+    width: 20%;
+    height: auto;
+    margin-top: 40px;
+    /* margin-bottom: 20px; */
 }
 .nav-links{
     display: flex;
     text-align:center;
     align-items: center;
     text-decoration:none;
-    margin-left: 620px;
+    margin-left: 200px;
     gap:30px;
 }
 li:hover{
@@ -49,15 +53,16 @@ ul {
     display: flex;
     background-color: #F26419;
     color: #FFFFFF;
-    padding: 20px 40px;
-    width: 183px;
+    padding: 10px 20px;
     height: 64px;  
-    margin: 25px 0 0 30px;
+    margin: 23px 20px 8px 30px;
     border-radius: 8px;
     font-family: 'Yellix';
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
     border-style: none;
+    align-items:center;
+    text-align: center;
   }
  `;

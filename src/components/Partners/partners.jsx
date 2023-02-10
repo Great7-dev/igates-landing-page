@@ -3,6 +3,7 @@ import { Partnerstyle } from "./partnerStyle";
 import Logo from "../../assets/SYTYCC.svg"
 import Logo2 from "../../assets/inven3.svg"
 import Logo3 from "../../assets/cardstel.svg"
+import Logo4 from "../../assets/loyz.png"
 
 const Partners = () => {
     return (
@@ -20,7 +21,7 @@ const Partners = () => {
                 <img src={Logo3} alt="cardstel" className="lg3"/>
               </div>
               <div className="inven">
-                <img src={Logo3} alt="cardstel" className="lg3"/>
+                <img src={Logo4} alt="cardstel" className="lg4"/>
               </div>
             </div>
             </div>

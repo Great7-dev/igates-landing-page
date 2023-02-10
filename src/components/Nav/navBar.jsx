@@ -1,5 +1,6 @@
 import React from "react";
 import { Navstyle } from "./navBarStyle";
+import Logo from "../../assets/Igates logo.png"
 
 
 const NavBar = () => {
@@ -7,7 +8,7 @@ const NavBar = () => {
         <Navstyle>
       <div className="nav-container">
        <div className="name">
-        <h1>i</h1><h1 className="gates">Gates</h1>
+       <img src={Logo} alt="logo" className="gates"/>
         </div> 
       </div>
         <ul className="nav-links">

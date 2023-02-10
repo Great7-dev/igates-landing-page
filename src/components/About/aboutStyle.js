@@ -7,7 +7,7 @@ export const Aboutstyle = styled.div`
 
 .about-container{
     display:flex;
-    margin-top: 9rem;
+    margin-top: 5rem;
     justify-content: center;
 }
 .abt-text{
@@ -19,7 +19,7 @@ font-size: 40px;
 }
 .img-text{
     display:flex;
-    margin-top: 66px;
+    margin-top: 50px;
     gap:110px;
     margin-left: 102px;
     flex-direction: row;
