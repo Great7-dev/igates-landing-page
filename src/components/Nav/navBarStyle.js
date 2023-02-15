@@ -35,7 +35,15 @@ margin-left: 102px;
     margin-left: 200px;
     gap:30px;
 }
-li:hover{
+.link{
+    text-decoration:none;
+    color: #000000;
+}
+.link2{
+    text-decoration:none;
+    color: #FFFFFF;
+}
+.link:hover{
     color: #F26419
 }
 ul {
@@ -65,4 +73,13 @@ ul {
     align-items:center;
     text-align: center;
   }
+  
+  @media only screen and (max-width: 430px) {
+    width: 100%;
+
+}
+  @media only screen and (max-width: 320px) {
+    width: 100%;
+}
+
  `;

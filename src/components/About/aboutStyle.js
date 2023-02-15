@@ -7,11 +7,12 @@ export const Aboutstyle = styled.div`
 
 .about-container{
     display:flex;
-    margin-top: 5rem;
+    margin-top: 6rem;
     justify-content: center;
+    margin-right: 60px;
 }
 .abt-text{
-    margin:0;
+ margin:0;
 font-family: 'Yellix';
 font-style: normal;
 font-weight: 700;
@@ -25,7 +26,7 @@ font-size: 40px;
     flex-direction: row;
 }
 .texts{
-    margin-top: 30px;
+    margin-top: 100px;
 }
 .text1{
     font-family: 'Yellix';

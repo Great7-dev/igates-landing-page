@@ -8,8 +8,8 @@ import Card4 from "../Card/Card4";
 
 const Offer = () => {
     return(
-        <Offerstyle>
-            <div className="offer-container">
+        <Offerstyle id="products">
+            <div className="offer-container" >
             <h1 className="head">What We Offer?</h1>
             </div>
             <div className="grid-container">

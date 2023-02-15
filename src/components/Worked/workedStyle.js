@@ -5,7 +5,7 @@ export const Workedstyle = styled.div`
 .wrk-text{
     display:flex;
     justify-content: center;
-    margin-top: 5rem;
+    margin-top: 6rem;
     font-family: 'Yellix';
     font-style: normal;
     font-weight: 700;

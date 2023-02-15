@@ -7,7 +7,7 @@ export const Offerstyle = styled.div`
    .offer-container{
        justify-content: center;
        display:flex;
-        margin-top: 2rem;
+        margin-top: 6rem;
     }
     .head{
         margin: 0;

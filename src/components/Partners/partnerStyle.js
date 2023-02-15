@@ -13,14 +13,15 @@ export const Partnerstyle = styled.div`
     font-weight: 700;
     font-size: 40px;
 }
-.partner-container{
+.partners-container{
     display: flex;
     flex-direction: column;
+    margin-top:50px;
 }
 .logo-container{
     display: flex;
     flex-direction: row;
-    margin-top: 50px;
+    margin-top: 10px;
     gap:70px;
     margin-left: 102px;
 }

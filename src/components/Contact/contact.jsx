@@ -8,7 +8,7 @@ import Logo3 from "../../assets/Group8.svg"
 const Contact = () => {
     return(
         <Contactstyle>
-            <div className="contact">
+            <div className="contact" id="contact">
             <h1 className="head">Let's Build Something!</h1>
             <div className="main-container">
             <div className="input">

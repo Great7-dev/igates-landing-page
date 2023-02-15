@@ -7,7 +7,7 @@ import Logo4 from "../../assets/loyz.png"
 
 const Partners = () => {
     return (
-        <Partnerstyle>
+        <Partnerstyle  id="partners">
             <div className="partners-container">
                 <h1 className="patne">Our Trusted Partners</h1>
             <div className="logo-container">

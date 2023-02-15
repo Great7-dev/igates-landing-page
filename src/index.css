@@ -1,21 +1,17 @@
-body {
+/* *,
+*::after,
+*::before {
   margin: 0;
-  /* @font-face { */
-    /* font-family: 'Yellix';
-    src: local('Yellix-Regular')
-        url('../src/font/Yellix-Regular/Yellix-Regular.woff') format('truetype');
-    font-weight: normal;
-    font-style: normal; */
-  /* } */
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+body {
+  width: 100%;
+  display: flex;
+  margin: 0;
+  background-color: #fff8f8;
+  align-items: center;
+
 }
 
-/* code {
-  font-family: "Yellix",
-} */
-/* @font-face {
-  font-family: 'Yellix';
-  src: local('Yellix-Regular')
-      url('././font/Yellix-Regular/Yellix-Regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-} */

@@ -4,8 +4,8 @@ import Logo from "../../assets/about.svg"
 
 const About = () => {
   return (
-    <Aboutstyle>
-        <div className='about-container'>
+    <Aboutstyle id='about'>
+        <div className='about-container' >
         <h1 className='abt-text'>What We’re About?</h1>
         </div>
         <div className='img-text'>

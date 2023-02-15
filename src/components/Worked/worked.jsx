@@ -12,8 +12,8 @@ import Logo9 from "../../assets/sapphire.svg"
 
 const Worked = () => {
    return (
-    <Workedstyle>
-      <div>
+    <Workedstyle id="clients">
+      <div >
         <h1 className="wrk-text">Who We’ve Worked For?</h1>
       </div>
       <div className="first-line">

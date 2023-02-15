@@ -10,7 +10,7 @@ export const Introstyle = styled.div`
     flex-direction: row;
     align-items: center;
     gap:69px;
-    margin-top: 6rem;
+    margin-top: 7rem;
     margin-left: 102px
    
 }
